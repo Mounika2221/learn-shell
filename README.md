@@ -10,5 +10,7 @@ shell topics:
 6. exit status
 7. inputs
 8. quotes
+9. redirectors
+10. SED Editor
 
 ##
