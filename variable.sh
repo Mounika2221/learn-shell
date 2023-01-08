@@ -7,4 +7,4 @@ echo course name - ${course}
 #Date=2023-01-08
 DATE=$(date +%F)
 
-echo Today date is $Date
+echo Today date is $DATE
